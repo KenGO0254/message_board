@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import models.Message;
-import models.MessageValidator;
+import models.validators.MessageValidator;
 import utils.DBUtil;
 
 /**

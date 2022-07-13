@@ -1,7 +1,9 @@
-package models;
+package models.validators;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import models.Message;
 
 public class MessageValidator {
     // バリデーションを実行する
